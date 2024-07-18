@@ -1,3 +1,6 @@
+#  Grid Color Change matrix Project
+This project demonstrates a simple interactive 3x3 grid implemented using React. Users can click on any cell to change its color to green. Once the designated last cell is clicked, all previously clicked cells change their color to orange in the order they were clicked. The grid then resets automatically, allowing users to restart the process without refreshing the page. This project showcases the use of React state management, event handling, and timed state updates.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
