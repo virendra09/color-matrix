@@ -1,5 +1,11 @@
 body {
   margin: 0;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+
+  background-color: #91009e;
+background-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png");
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
